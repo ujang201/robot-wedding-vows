@@ -1,0 +1,3 @@
+Write one funny single-line wedding vow for a robot couple, at most 160 characters.
+
+The line must read like a real wedding promise (a vow, a commitment), be specific to machines — firmware updates, crashes, batteries, factory resets — and land its joke in the last few words, with a surprise turn that pays off when read aloud.
